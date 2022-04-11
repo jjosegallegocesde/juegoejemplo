@@ -1,0 +1,21 @@
+#banner{
+
+    background-image: url("../assets/img/banner1.jpg");
+    background-size: cover;
+    background-position: top center;
+    padding: 25% 50% 25% 2%;
+
+}
+
+.menu{
+    background-color: transparent;
+    transition: 1s;
+}
+
+.menu2{
+
+    transition: 2s;
+    background-color: black;
+
+
+}
